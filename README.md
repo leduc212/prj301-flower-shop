@@ -2,7 +2,9 @@
 
 # ONLINE FLOWER SHOP JAVA WEB APPLICATION
 
-Note: This application is built as an assignment for a subject in my university. FPTU-PRJ301-VanTTN-Spring22 Assignment.
+Note: This application is built as an assignment for Java Web-app fundamentals subject in my university.
+
+FPTU-PRJ301-VanTTN-Spring22 Assignment.
 
 ## Prerequisite
 ### Frontend
