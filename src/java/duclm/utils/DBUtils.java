@@ -20,10 +20,11 @@ public class DBUtils {
         String instanceName = "LAPTOP-QP4UQ4DU";
         String port = "1433";
         String uid = "sa";
-        String pwd = "minhduc2102";
+        String pwd = "123";
 
         String db = "PlantShop";
         String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
+        
         String url = "jdbc:sqlserver://" + IP + "\\" + instanceName + ":" + port
                 + ";databasename=" + db + ";user=" + uid + ";password=" + pwd;
         Class.forName(driver);
