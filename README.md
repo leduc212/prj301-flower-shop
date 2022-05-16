@@ -245,4 +245,19 @@ GO
 
 Step 1: Open NetBeans IDE 8.2. 
 Step 2: Import the project with this git link: https://github.com/leduc212/prj301-flower-shop.git
-Step 3: 
+Step 3: Import database [as the above steps](https://www.youtube.com/watch?v=D1e3Bj5KWLI)
+Step 4: Config the database connection file: FlowerManagementSystem_1 > Source Packages > duclm.utils > DBUtils.java
+Step 4: In DBUtils.java file, change the IP to localhost, instanceName into your device name (you can check your device name in SQL Server 2014), port to your SQL server config port (you can check for this with SQL server configuration manager), uid and pwd is the username and password to connect to SQL Server 2014. By default, your username is sa and there is no password for this account. Change the password in SQL Server in order to run the code. Here's a guide on how to change sa password: [link](https://blog.trimech.com/how-to-change-your-sql-sa-account-password)
+Step 5: Save your DBUtils.java file and make sure you config the file correctly.
+Step 6: Deploy the application with GlassFish.
+
+## A step-by-step guide on how to create a web app like this
+[Uploading JavaWeb_Setup_Workshop_Assignment_Plan.pdf…](Vietnamese)
+
+## Additional Features (scuffed)
+- Login with your Google accounts
+- reCaptcha in Registration page
+- Send confirmation email on successful account registration
+- Pagination
+
+### I will do a step-by-step guide on how to do the additional features in the future, thank you for reading this document.
