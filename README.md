@@ -258,7 +258,7 @@ STEP 6: Save your DBUtils.java file and make sure you config the file correctly.
 STEP 7: Deploy the application with GlassFish.
 
 ## A step-by-step guide on how to create a web app like this
-[Uploading JavaWeb_Setup_Workshop_Assignment_Plan.pdf…](Vietnamese)
+[Uploading JavaWeb_Setup_Workshop_Assignment_Plan.pdf…]()
 
 ## Additional Features (scuffed)
 - Login with your Google accounts
